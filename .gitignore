@@ -1,0 +1,16 @@
+# Compiled executables
+client
+server
+test_cipher
+
+# Test/generated files
+large.txt
+test.pdf
+special.txt
+received_*.txt
+*.pcap
+
+# Editor/OS files
+*.swp
+*~
+.DS_Store
