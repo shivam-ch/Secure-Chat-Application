@@ -2,9 +2,8 @@
 
 ## Group Members
 
-- Shivam Kumar Chaurasia (24052434) — server implementation, concurrency, protocol integration, and overall testing
-- Aaditya Thakur (24052488) — client implementation, XOR cipher integration, and client-side testing
-- Ritwika Dasgupta (24155995) — file-transfer implementation, error handling, and functional testing
+- Shivam Kumar Chaurasia (24052434) — server implementation, concurrency, protocol integration, and overall testing, file-transfer implementation
+- Aaditya Thakur (24052488) — client implementation, XOR cipher integration, and client-side testing, error handling, and functional testing
 
 ## How to Build
 
